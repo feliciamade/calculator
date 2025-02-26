@@ -45,6 +45,7 @@ p {
 }
 
 button {
+    
     background: rgb(40, 45, 72);
     color:white;
     font-size: 1.5rem;
@@ -75,4 +76,9 @@ button:active, button:focus {
 
 .operations {
     background-color: rgb(255, 61, 152) ;
+}
+
+.otherKeys {
+    background-color: rgb(181, 220, 254);
+    color:rgb(40, 45, 72);
 }
